@@ -22,7 +22,7 @@ It is a 3D third-person action-adventure game developed as part of a college com
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sibling-rescue.git
+   git clone https://github.com/yatin2999/third-person-game.git
 2. Extract Game_Build.rar
 3. Run the .exe file
 
